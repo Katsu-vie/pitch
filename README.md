@@ -11,7 +11,7 @@ Arquivos
 [Cadastro](files/Cadastrar.pdf) |
 [Pitch](files/Pitch%20(3).pdf) | 
 [Simulação](video/Simula%C3%A7%C3%A3o%20do%20app.mp4) |
-[Download do app](.apk/app-trybu.apk)
+[Download do app](apk/app-trybu.apk)
 
 
 # Sumário
