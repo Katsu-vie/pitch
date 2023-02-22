@@ -1,2 +1,8 @@
-# pitch
-Documentação do app...
+<div align="center">
+
+# PITCH
+
+</div>
+
+
+Documentação da aplicação.
